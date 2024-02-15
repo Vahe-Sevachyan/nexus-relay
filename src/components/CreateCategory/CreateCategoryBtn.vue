@@ -10,7 +10,8 @@
 <style scoped>
 .container {
   background-color: grey;
-  width: 17rem;
+  min-width: 17rem;
+  margin: 1rem 0 0.5rem 0;
 }
 .btn-container {
   display: flex;
@@ -21,5 +22,9 @@
 }
 button {
   height: 25px;
+  color: black;
+  background-color: white;
+  border: none;
+  cursor: pointer;
 }
 </style>
