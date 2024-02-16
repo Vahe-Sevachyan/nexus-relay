@@ -1,13 +1,7 @@
-<script setup>
-import CategoryContainer from "./components/CategoryContainer.vue";
-import DisplayCategory from "./components/DisplayContainer.vue";
-</script>
+<script setup></script>
 
 <template>
-  <div class="container">
-    <CategoryContainer />
-    <DisplayCategory />
-  </div>
+  <div class="container"></div>
 </template>
 
 <style scoped>
