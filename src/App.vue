@@ -1,13 +1,8 @@
-<script setup></script>
-
 <template>
-  <div class="container"></div>
+  <div>Hello Veutify</div>
+  <SideBar />
 </template>
 
-<style scoped>
-.container {
-  display: flex;
-  height: 100vh;
-  /* padding-top: 0.5rem; */
-}
-</style>
+<script setup>
+import SideBar from "./components/SideBar.vue";
+</script>
