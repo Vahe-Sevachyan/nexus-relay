@@ -1,5 +1,4 @@
 <template>
-  <div>Hello Veutify</div>
   <SideBar />
 </template>
 
